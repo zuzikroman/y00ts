@@ -1,0 +1,59 @@
+{
+  "name": "ABC Girls #143",
+  "symbol": "ABCGirls",
+  "description": "ABC Girls #143 - %0 Royalties - No Discord - No Promise\n- No Rug",
+  "seller_fee_basis_points": 0,
+  "image": "https://nftstorage.link/ipfs/bafybeih2djxa2d5mzkjqxtd2mdhzbkeibz74muolwkpiaubgbypgle5oza/143.jpeg",
+   "external_url": "",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "YELLOW"
+    },
+    {
+      "trait_type": "Body",
+      "value": "YELLOW SKIN WITH TATTOO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GREEN EYE CRYING"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "PINK SHORT HAIR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PURPLE NIGHT DRESS"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "THIN LIPS"
+    },
+    {
+      "trait_type": "Jewerly",
+      "value": "COLLAR AND BLUE FLOWER"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 4026,
+      "display_type": "number",
+      "max_value": 4444
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
